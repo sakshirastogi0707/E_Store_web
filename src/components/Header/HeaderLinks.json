@@ -1,0 +1,28 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "label": "Product Listing",
+        "link": "/product-listing"
+      }
+    ],
+    "profileMenu": [
+      {
+        "id": 1,
+        "label": "My-Account"
+      },
+      {
+        "id": 2,
+        "label": "My Cart"
+      },
+      {
+        "id": 3,
+        "label": "Logout"
+      },
+      {
+        "id": 4,
+        "label": "Login"
+      }
+    ]
+  }
+  

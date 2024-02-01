@@ -1,0 +1,9 @@
+.from-group{
+    margin-bottom: unset !important;
+    width: 100%;
+}
+.error{
+    color: red;
+    font-size: 0.8rem;
+    margin: unset;
+}

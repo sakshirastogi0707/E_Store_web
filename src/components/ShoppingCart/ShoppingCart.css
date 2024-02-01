@@ -1,0 +1,14 @@
+.shopping-cart-wrapper{
+    padding-block: 8rem;
+}
+.items-wrapper{
+    border-bottom: 2px solid #072f4f;
+}
+
+.total-amount{
+    font-size: 1.5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+}

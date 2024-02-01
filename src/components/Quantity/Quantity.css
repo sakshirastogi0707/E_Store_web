@@ -1,0 +1,30 @@
+
+.quantity {
+    display: flex;
+    align-items: center;
+
+  }
+  
+  .quantity label {
+    margin-right: 10px;
+  }
+  
+  .quantity-button {
+    margin: 0 5px;
+    background-color: transparent;
+    border: 1px solid #ccc;
+  }
+  .quantity-button:hover{
+    cursor: pointer;
+    background-color: transparent;
+    color: #072f4f;
+  }
+  
+  .show-quantity {
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    margin: 0 5px;
+    font-weight: bold;
+    color: #072f4f;
+  }
+  

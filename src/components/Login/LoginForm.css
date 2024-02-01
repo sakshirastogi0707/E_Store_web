@@ -1,0 +1,11 @@
+.form {
+    width: 80%;
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+}
+
+.go-to-signup {
+    color: blue;
+    cursor: pointer;
+}

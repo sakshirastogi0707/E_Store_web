@@ -1,0 +1,22 @@
+.nav-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding-block: 0.5rem;
+    border-bottom: 0.2rem solid #072f4f;
+    position: sticky;
+    overflow: hidden;
+}
+.nav-wrapper{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left-items{
+    width: 60%;
+}
+.right-items{
+    width: 30%;
+}
